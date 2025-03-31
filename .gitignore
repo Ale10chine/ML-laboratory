@@ -1,0 +1,12 @@
+.DS_Store
+Lab0/
+Lab1/
+Lab2/
+Lab3_SVM/
+Lab4_NeuralNetworks/
+Lab5_CNN/
+Lab6_Clustering/
+test_experiments_notes.py
+.vscode/
+Bonus/
+
